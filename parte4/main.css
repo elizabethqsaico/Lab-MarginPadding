@@ -1,11 +1,11 @@
 div{
 	padding: 5px 5px 5px 5px;
 	border: 2px solid orange;
-	width: 250px;
+	width: 200px;
 	height: 250px;
 }
 
 h3,p{
+	/* NO Margin para separar el contenido y borde*/
 	background: white;
-	/*margin: 20px 20px 20px 20px;*/
 }
