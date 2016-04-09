@@ -1,4 +1,6 @@
 div{
+	/* Padding para separar borde y contenido
+	   Margin para crear espacio entre div */
 	padding: 5px;
 	margin: 10px;
 	border: 2px solid orange;
